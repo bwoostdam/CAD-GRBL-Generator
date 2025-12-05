@@ -11,7 +11,7 @@ Why this code was developed:
 Many years ago I learned to use an industrial CNC machine during my education. (G-code)
 I also had access to very early versions of AutoCAD and learned AutoLISP.
 I created code that translated CAD into G-code for CNC machines.
-This code was far form complete or perfect and due to career choices got lost.
+This code was far from complete or perfect and due to career choices got lost.
 (I could never afford a CNC machine anyway.)
 During my career I came back to CAD and 'solid state laser machines' running GRBL were gaining in 'working area' and 'cutting-power by' the month.
 (I was never inclined to buy a 3D printer for a meriad of reasons.)
