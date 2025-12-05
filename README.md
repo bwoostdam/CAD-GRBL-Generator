@@ -43,6 +43,9 @@ CAD: Any CAD platform that can run AutoLISP
 
 Usage:
 ------
-A manual will be added shortly
+A manual will be added shortly.
+
+Note:
+-----
 I will not answer any questions nor will I change the code actively upon requests.
 
