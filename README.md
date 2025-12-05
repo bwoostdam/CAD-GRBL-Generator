@@ -48,7 +48,7 @@ CAD: Any CAD platform that can run AutoLISP
 
 Usage:
 ------
-A manual will be added shortly.
+A usage manual has been added.
 
 Note:
 -----
