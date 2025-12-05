@@ -24,7 +24,7 @@ Currently I fly mostly high performance F3A type aircraft and F3A-sequences.
 Of course I ran into trouble because of the tool-offset needed (kerf) to produce accurate parts.
 GRBL is limited and does not support the original G-codes for this.
 Thinking it would be easily solvable by using some free application like FreeCAD (which btw I am a big fan of),
-it turned out that no software was available that met my criteria coming from a CAD background.
+it turned out that no free software was available that met my criteria coming from a CAD background.
 All were/are horribly cumbersome to me.
 
 So, as I found nothing was available on CAD-platforms I use, and having gained more knowledge over the years, I decided to create my own code.
