@@ -37,7 +37,8 @@ Requirements:
 Machines:
 
  The code is written for a NEJE MAX 4 laser machine with a controllable Z-axis.
- The code uses material-configuration files wich also allows for machines that do not have a controllable Z-axis
+ The code uses material-configuration files wich also allows for machines that have a fixed Z-axis
+ 
 CAD: Any CAD platform that can run AutoLISP
 ---------------
 
