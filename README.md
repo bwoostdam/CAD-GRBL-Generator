@@ -20,7 +20,7 @@ Currently I fly mostly high performance F3A type aircraft and F3A-sequences.
 Ofcourse I ran into trouble because of the tool-offset needed (kerf) to produce accurate parts.
 Thinking it would be easily solvable by using some free application like FreeCAD (which btw I am a big fan of),
 it turned out that no software was available that met my criteria coming from a CAD background.
-All were orribly cumbersome to me.
+All were/are horribly cumbersome to me.
 So, as I found nothing was available on CAD-platforms I use, and having gained more knowledge over the years, I decided to create my own code.
 Today I am using it with great joy as it fulfills all my current usage-wishes.
 Ik hope others will try it, and maybe use it as a base to create their own version and possibly elaborate in it.
