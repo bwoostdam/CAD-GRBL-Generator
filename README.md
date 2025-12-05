@@ -34,7 +34,7 @@ I hope others will try it, and maybe use it as a base to create their own versio
 
 Installation:
 -------------
-  A manual with how to add this to your CAD-application will is provided.
+  A manual with how to add this to your CAD-application is provided.
   For those who are familiar with the menu-workings, Support file Search paths in profiles and the APPLOAD command will have no problem.
 
 
