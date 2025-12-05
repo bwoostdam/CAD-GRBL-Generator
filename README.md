@@ -7,8 +7,7 @@ Code is developed, tested and used under ZWCAD and AutoCAD.
 ----------------
 
 Why this code was developed: 
-
-
+----------------------------
 Many years ago I learned to use an industrial CNC machine during my education. (G-code)
 I also had access to very early versions of AutoCAD and learned AutoLISP.
 I created code that translated CAD into G-code for CNC machines.
@@ -27,26 +26,23 @@ All were/are horribly cumbersome to me.
 So, as I found nothing was available on CAD-platforms I use, and having gained more knowledge over the years, I decided to create my own code.
 Today I am using it with great joy as it fulfills all my current usage-wishes.
 Ik hope others will try it, and maybe use it as a base to create their own version and possibly elaborate in it.
-----------------
 
 Installation:
-
-  
+-------------
   A manual with how to add this to your CAD-application will be provided soon.
   For those who are familiar with the menu-workings, Support file Search paths in profiles and the APPLOAD command will have no problem.
-----------------
+
 
 Requirements:
 -------------
 Machines:
-
  The code is written for a NEJE MAX 4 laser machine with a controllable Z-axis.
  The code uses material-configuration files wich also allows for machines that have a fixed Z-axis
- 
+
 CAD: Any CAD platform that can run AutoLISP
----------------
 
 Usage:
+------
 A manual will be added shortly
 I will not answer any questions nor will I change the code actively upon requests.
 
