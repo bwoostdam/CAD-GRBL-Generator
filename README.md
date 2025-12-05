@@ -24,8 +24,9 @@ Thinking it would be easily solvable by using some free application like FreeCAD
 it turned out that no software was available that met my criteria coming from a CAD background.
 All were/are horribly cumbersome to me.
 So, as I found nothing was available on CAD-platforms I use, and having gained more knowledge over the years, I decided to create my own code.
-Today I am using it with great joy as it fulfills all my current usage-wishes.
-Ik hope others will try it, and maybe use it as a base to create their own version and possibly elaborate in it.
+Today I am using it with great joy as it fulfills all my current usage-wishes and requirements.
+
+I hope others will try it, and maybe use it as a base to create their own version and possibly elaborate in it.
 
 Installation:
 -------------
