@@ -13,20 +13,24 @@ I also had access to very early versions of AutoCAD and learned AutoLISP.
 I created code that translated CAD into G-code for CNC machines.
 This code was far from complete or perfect and due to career choices got lost.
 (I could never afford a CNC machine anyway.)
+
 During my career I came back to CAD and 'solid state laser machines' running GRBL were gaining in 'working area' and 'cutting-power by' the month.
 (I was never inclined to buy a 3D printer for a meriad of reasons.)
-I waited untill they met my budget, power and work-area criteria and finally bought one.
+I waited untill they met my budget-, power- and work-area-criteria and finally bought one.
+
 1 of my 2 hobbies during my lifetime is passionately building and flying Model aircraft.
 Currently I fly mostly high performance F3A type aircraft and F3A-sequences.
-Ofcourse I ran into trouble because of the tool-offset needed (kerf) to produce accurate parts.
+
+Of course I ran into trouble because of the tool-offset needed (kerf) to produce accurate parts.
 GRBL is limited and does not support the original G-codes for this.
 Thinking it would be easily solvable by using some free application like FreeCAD (which btw I am a big fan of),
 it turned out that no software was available that met my criteria coming from a CAD background.
 All were/are horribly cumbersome to me.
+
 So, as I found nothing was available on CAD-platforms I use, and having gained more knowledge over the years, I decided to create my own code.
 Today I am using it with great joy as it fulfills all my current usage-wishes and requirements.
 
-I hope others will try it, and maybe use it as a base to create their own version and possibly elaborate in it.
+I hope others will try it, and maybe use it as a base to create their own version and possibly elaborate on it.
 
 Installation:
 -------------
