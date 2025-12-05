@@ -7,6 +7,8 @@ Code is developed, tested and used under ZWCAD and AutoCAD.
 ----------------
 
 Why this code was developed: 
+
+
 Many years ago I learned to use an industrial CNC machine during my education. (G-code)
 I also had access to very early versions of AutoCAD and learned AutoLISP.
 I created code that translated CAD into G-code for CNC machines.
@@ -28,6 +30,8 @@ Ik hope others will try it, and maybe use it as a base to create their own versi
 ----------------
 
 Installation:
+
+  
   A manual with how to add this to your CAD-application will be provided soon.
   For those who are familiar with the menu-workings, Support file Search paths in profiles and the APPLOAD command will have no problem.
 ----------------
