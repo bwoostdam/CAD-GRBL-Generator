@@ -153,6 +153,8 @@
   ; Note: This does not change existing Spline-ellipses! --> 2024-06-05: Splines are now handled correctly during 'prep & cLean'
   (setvar "pellipse" 1) ; Set PELLIPSE Var to 1, in order to create Poly-arc-ellipses.
   (setvar "measurement" 1) ; Make all measurements METRIC, this is crucial when (exporting) DXF files and for many more systems.
+  (setq objectsnapsettings (getvar "OSMODE"))
+  (setvar "OSMODE" 0) ; turn it off as it interferes with OFFSET !
   ;(setvar "CMDECHO" "1")
  
   ; Crucial requirements and settings
@@ -203,8 +205,9 @@
   (setq
     GCode    nil
     GCodeCUT nil
-    GCodeWRI nil 
+    GCodeWRI nil
   )
+  ;(setvar "OSMODE" objectsnapsettings)
   ;---------------------------------------
   ; This ERROR function should be inside the GCSave function.
   ; It is a local-error-catch function
@@ -471,6 +474,7 @@
     )
   );
 
+  (setvar "OSMODE" objectsnapsettings)
   (setvar "CMDECHO" 1)
   (princ "\n \nCompleted: Generating GCode.")
   (textscr)
@@ -562,7 +566,7 @@
     (princ"\nReverting drawing to its start status...")
     (setvar "CMDECHO" 0)
     (command "UNDO" "Back")
-    (setvar "CMDECHO" 1)  
+    (setvar "CMDECHO" 1)
     (princ "\nGeometry-info: ") (princ GeometryElementInfo)
     (princ "\nVertexCounter : ")  (princ VertexCounter) (princ "/") (princ (length LWPVertexList))
     ;(princ "\nVertex-list: ") (princ LWPVertexList)
